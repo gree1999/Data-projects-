@@ -36,6 +36,6 @@ Target Single Individuals: Focus on single-member families, especially those age
 21-30, as they show higher average sales quantities. Mid-Week Promotions: Introduce special offers from Monday to Wednesday to balance order volumes throughout the week. Operational Efficiency: Align staffing with peak order times and use automated 
 order reminders to enhance customer service and capture more sales. 
 
-Tools used: 
+<b>Tools used:</b> 
 Tableau 
 
