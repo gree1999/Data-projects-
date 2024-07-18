@@ -1,4 +1,4 @@
-<h4>Customer Analysis Segmentation</h4>
+<h3>Customer Analysis Segmentation</h3>
 
 This project focuses on conducting a comprehensive analysis of Zomato's customer base through segmentation techniques. By leveraging demographic data obtained directly from Zomato's database, we aimed to identify distinct customer segments based on various factors such as age, gender, education level, income, and marital status. The insights generated from this analysis can inform targeted marketing strategies, product/service enhancements, and customer relationship management initiatives for Zomato.
 
