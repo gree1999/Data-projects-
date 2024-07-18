@@ -1,7 +1,4 @@
-
-## Hey 👋, This is Greeshma Baratam
-[![Gmail Badge](https://img.shields.io/badge/-greeshmab1999@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:greeshmab1999@gmail.com)](mailto:greeshmab1999@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-Greeshma Baratam-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Greeshma Baratam/)](https://www.linkedin.com/in/Greeshma Baratam/) [![Github Badge](https://img.shields.io/badge/-gree1999-grey?style=flat&logo=github&logoColor=white&link=https://github.com/gree1999/)](https://www.github.com/gree1999/) <p align='left'>Diligent and self-motivated data analyst. Eager to leverage big data and visualization skills, with the aim of driving growth and boosting sales. 6 Months experience in business projects includes Tableau, Advaned Excel, SQL, Power BI, Python, R and story telling with data 
+Diligent and self-motivated data analyst. Eager to leverage big data and visualization skills, with the aim of driving growth and boosting sales. 6 Months experience in business projects includes Tableau, Advaned Excel, SQL, Power BI, Python, R and story telling with data 
 </p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=gree1999 alt=gree1999 /> </p>
