@@ -1,6 +1,6 @@
 <h3>Problem Statements:</h3>
 
-How has female participation in the Olympics evolved over the last 124 years?
+How has female participation in the Olympics evolved over the last 124 years?<br>
 Which countries have the highest number of female athletes winning medals, and how has this changed over time?
 Which sports are the hardest to get a medal in. As in ratio of people who medaled vs the amount of people who didn’t. *We can see if there is correlation to L2. Like, if females tend to succeed in sports where there is “hard” to medal in, I think that would be a cool thing.
 What is the percentage of female athletes participating in the top 10 countries with the highest number of total athletes in the Olympic games?
